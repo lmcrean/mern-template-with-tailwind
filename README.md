@@ -18,7 +18,7 @@ Deploy a MERN Stack to Vercel.
 
 ### Instant Deploy to Vercel:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/codingforinnovations/mern-vercel)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/lmcrean/mern-template-with-tailwind)
 
 ## 📚 Stack:
 
@@ -50,13 +50,21 @@ $PROJECT_ROOT
 
 ##  🏆Getting Started: 
 
-- Clone repository 
+- Clone repository (original credit to [codingforinnovations](https://github.com/codingforinnovations/mern-vercel)):
 
 ```bash
 mkdir ~/Dev/mern-react -p
 cd ~/Dev/mern-react
 git clone https://github.com/codingforinnovations/mern-vercel.git .
 ```  
+
+Clone repository (updated to use Vite and TailwindCSS):
+
+```bash
+mkdir ~/Dev/mern-react -p
+cd ~/Dev/mern-react
+git clone https://github.com/lmcrean/mern-template-with-tailwind.git .
+```
 
 - Start Express Js:
 ```bash
