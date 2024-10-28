@@ -86,6 +86,12 @@ Open [localhost:8000/api/hello](http://localhost:8000/admin) in your browser for
 
 Open [localhost:3000](http://localhost:3000) in your browser for client
 
+To deploy to Vercel with CLI use `bash` not `powershell`:
+
+```bash
+vercel
+```
+
 
 ## 🎫 LICENSE:
 
